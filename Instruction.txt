@@ -1,0 +1,18 @@
+#INSTALATION
+# laravel version should be 5.8^ or greater
+# open your command line and run composer install
+# create a database named social in your phpmyadmin
+# open .env file
+	DB_HOST=127.0.0.1
+	DB_DATABASE=social
+	DB_USERNAME=root
+	DB_PASSWORD=
+# run on your cli php artisan migrate
+# also run on your cli php artisan db:seed command
+# port starts with localhost:8000
+
+
+Users
+
+-Username: admin@outlook.com
+-Password: qweqwe123
